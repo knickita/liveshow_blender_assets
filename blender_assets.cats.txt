@@ -1,0 +1,11 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ffbcac9e-be7b-4828-85fd-1925cff0bbf0:Catalog:Catalog
+ea139a6d-deb5-4762-80ab-0d1605e5785b:Catalog/Americana Litec:Catalog-Americana Litec
+e0239ce1-7dc1-41ef-bb11-3694f83ca7e1:Catalog/Prova:Catalog-Prova
