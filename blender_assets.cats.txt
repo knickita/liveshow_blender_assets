@@ -6,6 +6,9 @@
 
 VERSION 1
 
+f37d9d19-bf67-4070-85fc-e6e05ebc5330:Catalog:Catalog
 ffbcac9e-be7b-4828-85fd-1925cff0bbf0:Catalog:Catalog
 ea139a6d-deb5-4762-80ab-0d1605e5785b:Catalog/Americana Litec:Catalog-Americana Litec
-e0239ce1-7dc1-41ef-bb11-3694f83ca7e1:Catalog/Prova:Catalog-Prova
+eb6e51fd-6b62-4eb2-afdb-f190f3b5edf1:Catalog/Audio:Catalog-Audio
+b8bd0d2c-d220-4fac-a663-ed7e20f5907e:Catalog/Mannequins:Catalog-Mannequins
+14dbfa1e-a60c-4627-bf4e-59dde2767d3d:Catalog/Structures:Catalog-Structures
