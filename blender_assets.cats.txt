@@ -10,5 +10,6 @@ f37d9d19-bf67-4070-85fc-e6e05ebc5330:Catalog:Catalog
 ffbcac9e-be7b-4828-85fd-1925cff0bbf0:Catalog:Catalog
 ea139a6d-deb5-4762-80ab-0d1605e5785b:Catalog/Americana Litec:Catalog-Americana Litec
 eb6e51fd-6b62-4eb2-afdb-f190f3b5edf1:Catalog/Audio:Catalog-Audio
+04e6041b-0359-4372-a864-4753d1675d12:Catalog/Electronics:Catalog-Electronics
 b8bd0d2c-d220-4fac-a663-ed7e20f5907e:Catalog/Mannequins:Catalog-Mannequins
-14dbfa1e-a60c-4627-bf4e-59dde2767d3d:Catalog/Structures:Catalog-Structures
+efd07ba6-5b1a-4af4-877b-851cb35c50e4:Catalog/Structures:Catalog-Structures
